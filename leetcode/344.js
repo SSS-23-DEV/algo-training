@@ -11,4 +11,3 @@ var reverseString = function(s) {
 
 let result = reverseString(["h","e","l","l","o"]);
 console.log(result);
-
