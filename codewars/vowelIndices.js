@@ -11,3 +11,5 @@ function vowelIndices(word){
 };
 
 console.log(vowelIndices('MMczHhoEnwJFxhSKswIwiTvU'));
+
+
